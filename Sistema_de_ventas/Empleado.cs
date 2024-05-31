@@ -61,7 +61,7 @@ namespace Sistema_de_ventas
                     textBox2.Text = "";
                     textBox3.Text = "";
                     textBox4.Text = "";
-                    dataGridView1
+                   
 
                 }
                 catch (SqlException EX)
