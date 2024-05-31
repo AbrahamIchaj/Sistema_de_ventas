@@ -74,5 +74,11 @@ namespace Sistema_de_ventas
 
   
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Usuarios usuarios = new Usuarios();
+            usuarios.Show();
+        }
     }
 }
